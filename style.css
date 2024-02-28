@@ -1,0 +1,17 @@
+/* Write some CSS below */
+
+        /* Styles pour la bannière */
+.banner {
+    width: 100%;
+    background-color: #8B4513; /* Couleur de fond de la bannière */
+    color: #fff; /* Couleur du texte */
+    text-align: center;
+    padding: 20px 2; /* Espacement intérieur haut et bas */
+    font-size: 24px; /* Taille de la police */
+    font-weight: bold; /* Poids de la police */
+    margin-top: 30px; /* espace entre la bannière et les images */
+.resize: 
+    width: 300px; /* Largeur souhaitée */
+    height: auto; /* Hauteur automatique pour conserver les proportions */;
+
+
